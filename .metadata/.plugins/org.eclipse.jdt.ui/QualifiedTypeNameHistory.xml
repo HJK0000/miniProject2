@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.ApplyList"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.Career"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.Company"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.CompanyReview"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.Experience"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.Hope"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.InterestUser"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.InterviewList"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.JobAd"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.JobScrap"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.License"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.Oa"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.OfferList"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.School"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.UserPhoto"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.User"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.UserReview"/>
+    <fullyQualifiedTypeName name="com.green.restServer.repository.ResumeRepository"/>
+    <fullyQualifiedTypeName name="com.green.restServer.entity.Resume"/>
+</qualifiedTypeNameHistroy>
